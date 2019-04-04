@@ -1,5 +1,5 @@
 {
-    "kind": "youtubeAnalytics#resultTable",
+    "kind": "fd#r1",
     "columnHeaders": [
      {
       "name": "address",
